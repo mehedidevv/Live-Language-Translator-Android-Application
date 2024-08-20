@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.languagetranslatorapp-debug-40:/layout_massage_layout.xml.flat",
+        "source": "com.example.languagetranslatorapp-main-42:/layout/massage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\layout_activity_singup.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\layout\\activity_singup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\drawable_ic_right_arrow.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\drawable\\ic_right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\layout_massage_layout.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\layout\\massage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\drawable_ic_mic.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\drawable\\ic_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\layout_activity_singin.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\layout\\activity_singin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\drawable_translate.png.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\drawable\\translate.png"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\layout_user_row.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\layout\\user_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\menu_main_manu.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\menu\\main_manu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\drawable_icon.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\drawable\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\drawable_icon_logout.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\drawable\\icon_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ZAHRA TECHNOLOGY\\.gradle\\daemon\\8.4\\com.example.languagetranslatorapp-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/translate"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/translate"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LanguageTranslatorApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".allUserActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ForgetPassActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen.SplashActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen.SplashActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SinginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SingupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen.SplashActivity1"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    style="@style/AppTheme.MaterialTheme"
+    tools:ignore="ExtraText">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbarlayout">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarmain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar">
+
+            <!-- Text View inside Toolbar -->
+
+            <TextView
+                android:id="@+id/usernamemain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hello, World!"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="3"
+        android:background="?attr/colorPrimary"
+        android:id="@+id/spinenerlayout"
+        android:layout_below="@+id/toolbarlayout"
+        >
+        <Spinner
+            android:id="@+id/idFromSpinner"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_margin="3px"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="3dp" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/ic_right_arrow"
+            app:tint="@color/white" />
+
+
+        <Spinner
+            android:id="@+id/idTopSpinner"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="3dp"/>
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/massageing">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/translatelayout">
+            <ImageView
+                android:id="@+id/idIVMic"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/ic_mic"
+                app:tint="@color/black" />
+
+
+            <EditText
+                android:id="@+id/idEdtSource"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:hint="Source Text"
+                android:textColorHint="@color/white"
+                android:textSize="14pt"
+                app:hintTextColor="@color/white" />
+
+
+
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/idBtnTranslate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Translate"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/translatelayout">
+            <TextView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/idTVTranslatedTV"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:text="Translate Text"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/sendBtn"
+                android:layout_below="@id/idTVTranslatedTV"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Send"
+                android:textAllCaps="false"/>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_below="@+id/spinenerlayout"
+        android:layout_above="@+id/massageing"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclermassage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

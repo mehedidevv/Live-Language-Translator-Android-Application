@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".SinginActivity">
+
+    <ImageView
+        android:id="@+id/imagelogin"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/translate"/>
+    <EditText
+        android:id="@+id/edemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:layout_below="@+id/imagelogin"
+        android:layout_marginVertical="5dp"
+        android:inputType="textEmailAddress"
+        android:padding="15dp"/>
+    <EditText
+        android:id="@+id/edpassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:layout_below="@+id/edemail"
+        android:layout_marginVertical="5dp"
+        android:inputType="textPassword"
+        android:padding="15dp"/>
+    <Button
+        android:id="@+id/button_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edpassword"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="40dp"
+        android:text="Login"
+        android:textColor="@color/black"
+        android:textSize="16dp"/>
+    <TextView
+        android:id="@+id/tv_fpass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Forgot password"
+        android:textColor="#1976D2"
+        android:textSize="20dp"/>
+    <TextView android:id="@+id/signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_fpass"
+        android:layout_centerHorizontal="true"
+        android:text="Don't have an account? Sign up"
+        android:textColor="#1976D2"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"/>
+
+</RelativeLayout>

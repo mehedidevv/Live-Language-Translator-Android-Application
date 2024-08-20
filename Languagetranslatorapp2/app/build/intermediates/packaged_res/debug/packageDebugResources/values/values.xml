@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_shade_1">#292d36</color>
+    <color name="purple_200">#0F9D58</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <string name="app_name">Language translator app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1009309847521</string>
+    <string name="google_api_key" translatable="false">AIzaSyCgNpFLYuBE-N5eOQ7_xHn0P-hRvxnn2ug</string>
+    <string name="google_app_id" translatable="false">1:1009309847521:android:488f26dfb0d8368556cca0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgNpFLYuBE-N5eOQ7_xHn0P-hRvxnn2ug</string>
+    <string name="google_storage_bucket" translatable="false">language-translator-app-ea88b.appspot.com</string>
+    <string name="project_id" translatable="false">language-translator-app-ea88b</string>
+    <style name="AppTheme.MaterialTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_200</item>
+        <item name="android:singleLine">true</item>
+
+    </style>
+    <style name="Base.Theme.LanguageTranslatorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.LanguageTranslatorApp" parent="Base.Theme.LanguageTranslatorApp"/>
+</resources>
